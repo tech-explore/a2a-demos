@@ -1,0 +1,14 @@
+server:
+  port: 9100
+spring:
+  application:
+    name: orchestrator-agent
+a2a:
+  agent:
+    name: orchestrator-agent
+  push:
+    enabled: true
+  remote:
+    flight: http://localhost:9101
+    hotel: http://localhost:9102
+    activities: http://localhost:9103
