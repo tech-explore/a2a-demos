@@ -1,0 +1,8 @@
+server:
+  port: 9103
+spring:
+  application:
+    name: activities-agent
+a2a:
+  agent:
+    name: activities-agent

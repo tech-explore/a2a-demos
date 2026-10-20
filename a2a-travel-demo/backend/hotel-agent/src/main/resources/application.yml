@@ -1,0 +1,8 @@
+server:
+  port: 9102
+spring:
+  application:
+    name: hotel-agent
+a2a:
+  agent:
+    name: hotel-agent

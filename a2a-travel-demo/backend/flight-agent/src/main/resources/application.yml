@@ -1,0 +1,8 @@
+server:
+  port: 9101
+spring:
+  application:
+    name: flight-agent
+a2a:
+  agent:
+    name: flight-agent
